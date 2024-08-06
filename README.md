@@ -1,1 +1,1 @@
-# Landing-page_task2
+CodSoft Internship Task 2 - Landing Page 
