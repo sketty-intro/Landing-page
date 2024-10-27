@@ -1,1 +1,1 @@
-CodSoft Internship Task 2 - Landing Page 
+ Internship Task 1 - Landing Page 
